@@ -1,0 +1,3 @@
+sqs:
+  uri: http://localhost:4566
+  fila: my-queue
